@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a31a173-e2f6-4ccd-8962-2cdccae1ae76" name="Default Changelist" comment="" />
+    <list default="true" id="0a31a173-e2f6-4ccd-8962-2cdccae1ae76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_a_m9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_attr9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_10nodrop_measure9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_a_m9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_attr9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_15nodrop_measure9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_a_m9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_attr9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure10.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure5.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure7.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readmitted_no_vs_yes/db_5nodrop_measure9.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impact_query_to_variance_topk/raw_results/readmited_no_vs_whole_a_m1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impact_query_to_variance_topk/raw_results/readmited_no_vs_whole_attr1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Impact_query_to_variance_topk/raw_results/readmited_no_vs_whole_measure1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_seedb_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/a_seedb_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_seedb_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/a_seedb_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_seedb_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/a_seedb_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Impact_query_to_variance_topk/a_seedb_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Impact_query_to_variance_topk/a_seedb_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Impact_query_to_variance_topk/a_seedb_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Impact_query_to_variance_topk/a_seedb_main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,19 +118,16 @@
       </set>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/.gitignore" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1SJDW62Dcy0DVVTRvk2KD09w7Nw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Impact_query_to_variance_topk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Impact_query_to_variance_topk/raw_results" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -38,6 +135,7 @@
       <recent name="C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\plot" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Impact_query_to_variance_topk\raw_results" />
       <recent name="C:\Users\uqrmafru\PycharmProjects\Impact_query_to_variance_topk" />
       <recent name="C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\raw_results" />
       <recent name="C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights" />
@@ -57,19 +155,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Impact Missing on Aggregate" type="PythonConfigurationType" factoryName="Python">
-      <module name="Impact_Missing_on_Aggregate_Insights" />
+      <module name="Impact_query_to_variance_topk" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Anaconda\envs\Impact_Missing_on_Aggregate_Insights\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Impact_query_to_variance_topk" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v2_X_1_plotting_missing_attribute_vs_ideal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Impact_query_to_variance_topk/a_seedb_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,3 +187,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571272833554</updated>
+      <workItem from="1571272857698" duration="25950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Impact_Missing_on_Aggregate_Insights$Impact_Missing_on_Aggregate.coverage" NAME="Impact Missing on Aggregate Coverage Results" MODIFIED="1571379546514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Impact_query_to_variance_topk" />
+  </component>
+</project>

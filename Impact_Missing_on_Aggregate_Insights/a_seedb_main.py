@@ -2,11 +2,11 @@
 from a_seedb_function import SeeDB
 from a_seedb_db import data
 import psycopg2
-conn = psycopg2.connect("dbname=zipf_v2 user=postgres password=zenvisage")
+conn = psycopg2.connect("dbname=diab_clean_v2 user=postgres password=zenvisage")
 
 cursor = conn.cursor()
 cursor.execute("""SELECT table_name FROM information_schema.tables
-       WHERE table_schema = 'public'""")
+       WHERE table_schema = 'public' and table_name like '%nodrop%'""")
 mytable = cursor.fetchall()
 
 

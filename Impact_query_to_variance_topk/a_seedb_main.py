@@ -18,14 +18,16 @@ if __name__ == "__main__":
 
     func = ['sum', 'avg', 'max', 'count']
 
-    # for i in mytable:
-    #     db, table, data_set = data(i[0], atr, measure, func)
-    #     print("running with db {}".format(i[0]))
-    #     framework = SeeDB(db,data_set,table,top_k)
-    #     framework.main()
-    #     print("done")
-    table = 'diabetes_v2'
-    db, table, data_set = data(table, atr, measure, func)
-    print("running with db {}".format(table))
-    framework = SeeDB(db,data_set,table,top_k)
-    framework.mai
+    mytable = ['db_10nodropnan_attr1', 'db_10nodropnan_measure1', 'db_10nodropnan_a_m1']
+    for i in mytable:
+        db, table, data_set = data(i[0], atr, measure, func)
+        print("running with db {}".format(i[0]))
+        framework = SeeDB(db,data_set,table,top_k)
+        framework.main()
+        print("done")
+    # table = 'diabetes_v2'
+    # db, table, data_set = data(table, atr, measure, func)
+    # print("running with db {}".format(table))
+    # framework = SeeDB(db,data_set,table,top_k)
+    # framework.main()
+    # print("done")
