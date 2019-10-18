@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Effectiveness/.idea/Effectiveness.iml" filepath="$PROJECT_DIR$/../Effectiveness/.idea/Effectiveness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Impact m on Effectiveness/.idea/Impact m on Effectiveness.iml" filepath="$PROJECT_DIR$/../Impact m on Effectiveness/.idea/Impact m on Effectiveness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Partial_Imputation/.idea/Partial_Imputation.iml" filepath="$PROJECT_DIR$/../Partial_Imputation/.idea/Partial_Imputation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Plotting/.idea/Plotting.iml" filepath="$PROJECT_DIR$/../Plotting/.idea/Plotting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data_cleaning_diabetes.iml" filepath="$PROJECT_DIR$/.idea/data_cleaning_diabetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../large_number_dataset_experiment/.idea/dynamic_imputation.iml" filepath="$PROJECT_DIR$/../large_number_dataset_experiment/.idea/dynamic_imputation.iml" />
+    </modules>
+  </component>
+</project>

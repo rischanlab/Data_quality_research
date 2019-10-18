@@ -1,0 +1,7 @@
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\a_seedb_main.py
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\v2_3_0_missing_attribute_vs_ideal.py
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\v2_3_0_missing_combine_a_m_vs_ideal.py
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\v2_3_0_missing_measure_vs_ideal.py
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\v2_X_1_plotting_missing_attribute_vs_ideal.py
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\v2_X_1_plotting_missing_combine_a_m_vs_ideal.py
+C:\Anaconda\python.exe C:\Users\uqrmafru\PycharmProjects\Impact_Missing_on_Aggregate_Insights\v2_X_1_plotting_missing_measure_vs_ideal.py

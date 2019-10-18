@@ -1,0 +1,23 @@
+C:\Anaconda\envs\data_cleaning\python.exe C:/Users/uqrmafru/PycharmProjects/Effectiveness/main.py
+start... generate insights from  diab10 (Median Imputation)
+================================================================
+Query time: 51.86133813858032
+Utility time: 0.20074248313903809
+Total view processing time: 52.06558442115784
+================================================================
+
+--- 52.748902559280396 seconds ---
+
+Process finished with exit code 0
+
+C:\Anaconda\envs\data_cleaning\python.exe C:/Users/uqrmafru/PycharmProjects/Effectiveness/main.py
+start... generate insights from  ddiab10 (Missing values)
+================================================================
+Query time: 49.21002769470215
+Utility time: 0.20031070709228516
+Total view processing time: 49.41472554206848
+================================================================
+
+--- 50.050240993499756 seconds ---
+
+Process finished with exit code 0

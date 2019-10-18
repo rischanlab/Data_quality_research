@@ -1,0 +1,23 @@
+C:\Anaconda\envs\data_cleaning\python.exe C:/Users/uqrmafru/PycharmProjects/Partial_Imputation/main.py
+start... generate partial insights from  diab10
+================================================================
+Query time: 9.193191289901733
+Utility time: 0.08301019668579102
+Total view processing time: 9.279171466827393
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 1.2756734157909981 ('avg', 'number_outpatient', 'miglitol')
+2 1.2449797226694754 ('avg', 'number_inpatient', 'glimepiride_pioglitazone')
+3 1.234382995219636 ('avg', 'time_in_hospital', 'acetohexamide')
+4 1.2265471405090553 ('avg', 'num_procedures', 'acetohexamide')
+5 1.166136623106795 ('avg', 'num_medications', 'acetohexamide')
+6 1.0983590170859368 ('avg', 'number_inpatient', 'miglitol')
+7 1.0425944027810374 ('avg', 'number_diagnoses', 'acetohexamide')
+8 1.0303745265545354 ('avg', 'number_inpatient', 'tolazamide')
+9 1.0 ('max', 'time_in_hospital', 'acetohexamide')
+10 0.9772735165625275 ('avg', 'time_in_hospital', 'glimepiride_pioglitazone')
+================================================================
+--- 9.859157800674438 seconds ---
+
+Process finished with exit code 0

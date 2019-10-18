@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b2776cd-cd93-4393-9ea0-7ff8e5c87a5f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RJm3aDGv3uUKC6hWmv5C6Hp4ny" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Impact of Missing on Insights/X_2_plotting_impact_of_percentage_missing_measures_vs_ideal.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Impact of Missing on Insights\plot" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Impact of Missing on Insights\z_plotting_function" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Skewness_Insights\results" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Skewness_Insights\results_dynamic_standard" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Skewness_Insights\results_dynamic_ideal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Impact of Missing on Insights\raw_results" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Impact of Missing on Insights" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Impact of Missing on Insights\raw_results_new" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Correlation_Insights" />
+      <recent name="C:\Users\uqrmafru\PycharmProjects\Skewness_Insights" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="X_2_plotting_impact_of_percentage_missing_measures_vs_ideal" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Impact of Missing on Insights" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Anaconda\envs\Impact of Missing on Insights\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Impact of Missing on Insights" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Impact of Missing on Insights/X_2_plotting_impact_of_percentage_missing_measures_vs_ideal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b2776cd-cd93-4393-9ea0-7ff8e5c87a5f" name="Default Changelist" comment="" />
+      <created>1569393374041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569393374041</updated>
+      <workItem from="1569393423170" duration="14747000" />
+      <workItem from="1569479499925" duration="15866000" />
+      <workItem from="1569547316748" duration="41733000" />
+      <workItem from="1569999710259" duration="71854000" />
+      <workItem from="1571272703726" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Aggregate_Insights/a_seedb_main.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Impact of Missing on Insights/3_0_missing_combine_a_m_vs_ideal.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Correlation_Insights$0_impute_dataset.coverage" NAME="X_3_plotting_impact_of_percentage Coverage Results" MODIFIED="1569546635114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Correlation_Insights$0_create_dataset_with_missing.coverage" NAME="X_2_plotting_impact_of_percentage_missing_measures_vs_ideal Coverage Results" MODIFIED="1571209507135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Impact of Missing on Insights" />
+    <SUITE FILE_PATH="coverage/Correlation_Insights$create_dataset.coverage" NAME="median_dynamic_vs_ideal Coverage Results" MODIFIED="1569478006466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Correlation_Insights$X_3_plotting_impact_of_percentage.coverage" NAME="0_create_dataset_with_missing Coverage Results" MODIFIED="1569998627116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Impact of Missing on Insights" />
+  </component>
+</project>

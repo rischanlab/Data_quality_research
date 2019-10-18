@@ -1,0 +1,39 @@
+C:\Anaconda\envs\data_cleaning\python.exe C:/Users/uqrmafru/PycharmProjects/Effectiveness/effectiveness.py
+K ======  5
+RBO ideal to ideal is 1.0.
+Jaccard ideal to ideal is 1.0.
+After median Impute to - Ideal top-k
+Rbo Median impute to Ideal is 0.9.
+Jaccard Median Impute to Ideal is 1.0.
+No Impute to - Ideal top-k
+RBO No Impute to Ideal is 0.7433333333333334.
+Jaccard No Impute to Ideal is 0.6666666666666666.
+K ======  10
+RBO ideal to ideal is 1.0.
+Jaccard ideal to ideal is 1.0.
+After median Impute to - Ideal top-k
+Rbo Median impute to Ideal is 0.9065476190476189.
+Jaccard Median Impute to Ideal is 1.0.
+No Impute to - Ideal top-k
+RBO No Impute to Ideal is 0.7114285714285715.
+Jaccard No Impute to Ideal is 0.42857142857142855.
+K ======  15
+RBO ideal to ideal is 1.0.
+Jaccard ideal to ideal is 1.0.
+After median Impute to - Ideal top-k
+Rbo Median impute to Ideal is 0.9073032523032523.
+Jaccard Median Impute to Ideal is 0.7647058823529411.
+No Impute to - Ideal top-k
+RBO No Impute to Ideal is 0.6874381174381174.
+Jaccard No Impute to Ideal is 0.5789473684210527.
+K ======  20
+RBO ideal to ideal is 1.0.
+Jaccard ideal to ideal is 1.0.
+After median Impute to - Ideal top-k
+Rbo Median impute to Ideal is 0.8971170161108241.
+Jaccard Median Impute to Ideal is 0.8181818181818182.
+No Impute to - Ideal top-k
+RBO No Impute to Ideal is 0.6941355196231356.
+Jaccard No Impute to Ideal is 0.48148148148148145.
+
+Process finished with exit code 0

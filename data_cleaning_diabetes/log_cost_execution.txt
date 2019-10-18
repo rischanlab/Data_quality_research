@@ -1,0 +1,214 @@
+C:\Anaconda\envs\data_cleaning\python.exe C:/Users/uqrmafru/PycharmProjects/data_cleaning_diabetes/main_ori.py
+================================================================
+Query time: 50.64521098136902
+Utility time: 0.20126080513000488
+Total view processing time: 50.85293364524841
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 1.2937212454283216 ('avg', 'number_emergency', 'readmitted')
+2 1.286402545015026 ('avg', 'number_inpatient', 'readmitted')
+3 1.244269375186461 ('avg', 'number_inpatient', 'glimepiride_pioglitazone')
+4 1.2341720454237366 ('avg', 'time_in_hospital', 'acetohexamide')
+5 1.2301018284636802 ('avg', 'number_outpatient', 'readmitted')
+6 1.2267812710867096 ('avg', 'num_procedures', 'acetohexamide')
+7 1.1952286093343938 ('max', 'number_inpatient', 'readmitted')
+8 1.1846159365495097 ('max', 'number_emergency', 'readmitted')
+9 1.1674087729611822 ('avg', 'time_in_hospital', 'readmitted')
+10 1.1658992110383695 ('avg', 'num_medications', 'acetohexamide')
+================================================================
+--- 51.63694715499878 seconds ---
+
+Process finished with exit code 0
+
+Original Cost: 51.63694715499878 seconds
+
+running with db diab10
+================================================================
+Query time: 2.679776906967163
+Utility time: 0.0395052433013916
+Total view processing time: 2.719780206680298
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 1.244269375186461 ('avg', 'number_inpatient', 'glimepiride_pioglitazone')
+2 1.2341720454237366 ('avg', 'time_in_hospital', 'acetohexamide')
+3 1.2267812710867096 ('avg', 'num_procedures', 'acetohexamide')
+4 1.1658992110383695 ('avg', 'num_medications', 'acetohexamide')
+5 1.1055461658361951 ('avg', 'num_lab_procedures', 'acetohexamide')
+6 0.9670212534961288 ('avg', 'num_lab_procedures', 'glimepiride_pioglitazone')
+7 0.8956120035845653 ('avg', 'number_emergency', 'diag_3')
+8 0.8894842360681972 ('avg', 'number_emergency', 'diag_2')
+9 0.8633221467882364 ('avg', 'number_emergency', 'diag_1')
+10 0.8159914587745412 ('avg', 'number_outpatient', 'miglitol')
+================================================================
+--- 3.2697861194610596 seconds ---
+done
+running with db diab20
+================================================================
+Query time: 2.727609395980835
+Utility time: 0.03708648681640625
+Total view processing time: 2.765681505203247
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 1.3260078286282955 ('avg', 'number_outpatient', 'miglitol')
+2 1.2608425955348288 ('avg', 'number_inpatient', 'glimepiride_pioglitazone')
+3 1.2355829432898842 ('avg', 'time_in_hospital', 'acetohexamide')
+4 1.2305338120266258 ('avg', 'num_procedures', 'acetohexamide')
+5 1.167149480437135 ('avg', 'num_medications', 'acetohexamide')
+6 1.1052107123264785 ('avg', 'num_lab_procedures', 'acetohexamide')
+7 1.1047510912576377 ('avg', 'number_inpatient', 'miglitol')
+8 0.9666195902285508 ('avg', 'num_lab_procedures', 'glimepiride_pioglitazone')
+9 0.8607103232036304 ('avg', 'number_emergency', 'diag_2')
+10 0.8559304847493187 ('avg', 'num_procedures', 'miglitol')
+================================================================
+--- 3.0082039833068848 seconds ---
+done
+running with db diab30
+================================================================
+Query time: 2.814107894897461
+Utility time: 0.03785395622253418
+Total view processing time: 2.8529624938964844
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 1.3376538537354135 ('avg', 'number_outpatient', 'miglitol')
+2 1.2370841906918386 ('avg', 'time_in_hospital', 'acetohexamide')
+3 1.2205879117391942 ('avg', 'number_inpatient', 'miglitol')
+4 1.1048170556145076 ('avg', 'num_lab_procedures', 'acetohexamide')
+5 0.9868229502736324 ('avg', 'num_medications', 'acetohexamide')
+6 0.966148407958729 ('avg', 'num_lab_procedures', 'glimepiride_pioglitazone')
+7 0.9437372375170779 ('avg', 'num_procedures', 'acetohexamide')
+8 0.864808634424711 ('avg', 'number_emergency', 'diag_1')
+9 0.7970554292357448 ('avg', 'time_in_hospital', 'glimepiride_pioglitazone')
+10 0.7963990490395958 ('avg', 'number_emergency', 'diag_3')
+================================================================
+--- 3.075059652328491 seconds ---
+done
+running with db diab40
+================================================================
+Query time: 2.757694721221924
+Utility time: 0.03705739974975586
+Total view processing time: 2.795722246170044
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 1.2940483723678495 ('avg', 'number_inpatient', 'glimepiride_pioglitazone')
+2 1.2384916180261285 ('avg', 'time_in_hospital', 'acetohexamide')
+3 1.223105783519996 ('avg', 'number_outpatient', 'miglitol')
+4 1.1700549796444546 ('avg', 'num_medications', 'acetohexamide')
+5 1.1044785267714752 ('avg', 'num_lab_procedures', 'acetohexamide')
+6 0.9890097532981971 ('avg', 'num_medications', 'glimepiride_pioglitazone')
+7 0.9657433586665277 ('avg', 'num_lab_procedures', 'glimepiride_pioglitazone')
+8 0.9589791584320349 ('avg', 'number_emergency', 'diag_3')
+9 0.9525053200683187 ('avg', 'num_procedures', 'acetohexamide')
+10 0.8056284346360056 ('avg', 'number_emergency', 'diag_1')
+================================================================
+--- 3.0227534770965576 seconds ---
+done
+running with db diab50
+================================================================
+Query time: 2.9232754707336426
+Utility time: 0.03603076934814453
+Total view processing time: 2.9598066806793213
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 0.8450352608657687 ('avg', 'number_emergency', 'diag_2')
+2 0.702014126419487 ('avg', 'number_emergency', 'diag_1')
+3 0.670763294949481 ('avg', 'number_outpatient', 'diag_1')
+4 0.6662638710472251 ('avg', 'number_emergency', 'diag_3')
+5 0.6514793610216297 ('avg', 'number_outpatient', 'diag_2')
+6 0.6501326917551715 ('avg', 'number_inpatient', 'diag_1')
+7 0.5843521958218961 ('avg', 'number_inpatient', 'diag_2')
+8 0.5821989436555243 ('avg', 'number_outpatient', 'diag_3')
+9 0.5751454601012078 ('avg', 'number_inpatient', 'diag_3')
+10 0.5616466754540491 ('avg', 'number_emergency', 'miglitol')
+================================================================
+--- 3.17281436920166 seconds ---
+done
+running with db diab60
+================================================================
+Query time: 2.886662721633911
+Utility time: 0.033884286880493164
+Total view processing time: 2.9215431213378906
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 0.8341530665474145 ('avg', 'number_emergency', 'diag_2')
+2 0.63853196502492 ('avg', 'number_outpatient', 'diag_1')
+3 0.5915766796017153 ('avg', 'number_inpatient', 'diag_3')
+4 0.5828911287416156 ('avg', 'number_emergency', 'diag_3')
+5 0.5782964484306335 ('avg', 'number_inpatient', 'diag_2')
+6 0.5782686275730322 ('avg', 'number_inpatient', 'diag_1')
+7 0.573910484746427 ('avg', 'number_outpatient', 'diag_2')
+8 0.5456824891174956 ('avg', 'number_outpatient', 'diag_3')
+9 0.5174393214393391 ('avg', 'number_emergency', 'diag_1')
+10 0.38838474954228674 ('avg', 'number_emergency', 'miglitol')
+================================================================
+--- 3.1540207862854004 seconds ---
+done
+running with db diab70
+================================================================
+Query time: 2.8309292793273926
+Utility time: 0.029000282287597656
+Total view processing time: 2.8604576587677
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 0.7526272817590941 ('avg', 'num_lab_procedures', 'miglitol')
+2 0.7285790487827505 ('avg', 'time_in_hospital', 'miglitol')
+3 0.7074827813219112 ('avg', 'number_emergency', 'diag_3')
+4 0.683515959147069 ('avg', 'num_medications', 'miglitol')
+5 0.6589255028050123 ('avg', 'num_procedures', 'miglitol')
+6 0.5440080031653383 ('avg', 'number_inpatient', 'diag_3')
+7 0.5311259266431344 ('avg', 'number_emergency', 'diag_2')
+8 0.5054594471093896 ('avg', 'number_inpatient', 'diag_2')
+9 0.4806220962333424 ('avg', 'number_outpatient', 'diag_3')
+10 0.4488637331072473 ('avg', 'number_outpatient', 'diag_1')
+================================================================
+--- 3.0784714221954346 seconds ---
+done
+running with db diab80
+================================================================
+Query time: 2.9926249980926514
+Utility time: 0.026483535766601562
+Total view processing time: 3.022608518600464
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 0.6610870879632057 ('avg', 'number_emergency', 'diag_1')
+2 0.6441183149701023 ('avg', 'number_inpatient', 'diag_2')
+3 0.6061409452847225 ('avg', 'number_outpatient', 'diag_3')
+4 0.6048428595219989 ('avg', 'number_emergency', 'diag_2')
+5 0.5274933585417483 ('avg', 'number_inpatient', 'diag_3')
+6 0.49359324657307474 ('avg', 'number_emergency', 'diag_3')
+7 0.4225008168655339 ('avg', 'number_outpatient', 'diag_2')
+8 0.3514774885032083 ('avg', 'number_inpatient', 'miglitol')
+9 0.34485075218897915 ('avg', 'number_outpatient', 'diag_1')
+10 0.321964344871098 ('avg', 'number_inpatient', 'diag_1')
+================================================================
+--- 3.254549741744995 seconds ---
+done
+running with db diab90
+================================================================
+Query time: 2.718658447265625
+Utility time: 0.019479990005493164
+Total view processing time: 2.738138437271118
+================================================================
+Rank, Utility, (F, M, A)
+================================================================
+1 0.44956143460699904 ('avg', 'number_outpatient', 'diag_1')
+2 0.39803847869304965 ('avg', 'number_inpatient', 'diag_2')
+3 0.32210006721031753 ('avg', 'number_inpatient', 'diag_1')
+4 0.28407308513393736 ('avg', 'number_inpatient', 'diag_3')
+5 0.2685803237844458 ('avg', 'number_outpatient', 'diag_3')
+6 0.2521474953637889 ('avg', 'number_emergency', 'diag_3')
+7 0.18199528010616448 ('avg', 'number_outpatient', 'diag_2')
+8 0.17878825073455046 ('avg', 'number_emergency', 'diag_2')
+9 0.16637627983090086 ('avg', 'time_in_hospital', 'diag_2')
+10 0.15672578113336103 ('avg', 'num_medications', 'diag_2')
+================================================================
+--- 3.017479181289673 seconds ---
+done

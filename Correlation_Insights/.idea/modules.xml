@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Aggregate_Insights/.idea/Aggregate_Insights.iml" filepath="$PROJECT_DIR$/../Aggregate_Insights/.idea/Aggregate_Insights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Correlation_Insights.iml" filepath="$PROJECT_DIR$/.idea/Correlation_Insights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Impact of Missing on Insights/.idea/Impact of Missing on Insights.iml" filepath="$PROJECT_DIR$/../Impact of Missing on Insights/.idea/Impact of Missing on Insights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Plotting/.idea/Plotting.iml" filepath="$PROJECT_DIR$/../Plotting/.idea/Plotting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Skewness_Insights/.idea/Skewness_Insights.iml" filepath="$PROJECT_DIR$/../Skewness_Insights/.idea/Skewness_Insights.iml" />
+    </modules>
+  </component>
+</project>

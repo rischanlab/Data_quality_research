@@ -1,0 +1,22 @@
+import glob
+import shutil
+
+file_name = 'diabetes.xlsx'
+full_name = 'raw_results/' + file_name
+
+for i in range(10):
+    src_dir = full_name
+    dst_dir1 = "raw_results/db_0dropnan_attr" + str(i + 1) + ".xlsx"
+    dst_dir2 = "raw_results/db_0dropnan_measure" + str(i + 1) + ".xlsx"
+    dst_dir3 = "raw_results/db_0dropnan_a_m" + str(i + 1) + ".xlsx"
+
+    dst_dir4 = "raw_results/db_0nodrop_attr" + str(i + 1) + ".xlsx"
+    dst_dir5 = "raw_results/db_0nodrop_measure" + str(i + 1) + ".xlsx"
+    dst_dir6 = "raw_results/db_0nodrop_a_m" + str(i + 1) + ".xlsx"
+
+    shutil.copy(src_dir, dst_dir1)
+    shutil.copy(src_dir, dst_dir2)
+    shutil.copy(src_dir, dst_dir3)
+    shutil.copy(src_dir, dst_dir4)
+    shutil.copy(src_dir, dst_dir5)
+    shutil.copy(src_dir, dst_dir6)

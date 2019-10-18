@@ -1,0 +1,9 @@
+Imputation Method,k,RBO to Ideal,Jaccard to Ideal
+Median Impute,5,0.9,1
+No Impute,5,0.743333333,0.666666667
+Median Impute,10,0.906547619,1
+No Impute,10,0.711428571,0.428571429
+Median Impute,15,0.907303252,0.764705882
+No Impute,15,0.687438117,0.578947368
+Median Impute,20,0.897117016,0.818181818
+No Impute,20,0.69413552,0.481481481
