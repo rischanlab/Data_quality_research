@@ -78,6 +78,8 @@ ub0 = ub0['ub']
 lb0 = df[df['measurement'] == 'Jaccard'].reset_index()
 lb0 = lb0['lb']
 
+print(mean0)
+print(ub0)
 mean1 = df[df['measurement'] == 'RBO 0.95'].reset_index()
 mean1 = mean1['mean']
 ub1 = df[df['measurement'] == 'RBO 0.95'].reset_index()

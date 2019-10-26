@@ -19,7 +19,7 @@ class SeeDB:
 
     def terms(self):
         #self.where1,self.where2 = input('enter WHERE clause for q1->'),input('enter WHERE clause for q2->')
-        self.where1, self.where2 = "readmitted ='NO'", "readmitted !='NO'"
+        self.where1, self.where2 = "readmitted ='NO'", ""
 
     def query(self):
         #q = 'delete from ' + self.table + ' where not (' + self.table + ' is not null)'
@@ -171,7 +171,7 @@ class SeeDB:
         data_result = []
         for i,j in self.best_k.items():
             data_result.append([i+1,j[1][2],j[1][1],j[1][0],j[0]])
-        writer = pd.ExcelWriter('readmitted_no_vs_yes/' + table + '.xlsx')
+        writer = pd.ExcelWriter('raw_results_100/' + table + '.xlsx')
         df = pd.DataFrame(data_result, columns=['ID','Attributes', 'Meassure', 'Function', 'Utility'])
         df.to_excel(writer,'Sheet1', index=0)
         writer.save()

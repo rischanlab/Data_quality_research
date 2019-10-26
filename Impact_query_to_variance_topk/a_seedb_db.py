@@ -3,7 +3,7 @@ import itertools
 
 
 def data(table, atr, measure, func):
-    db_name = 'zipf_v2'
+    db_name = 'diab_clean_v2'
     table = table
     prod = list(itertools.product(func, measure))
     data_set = {i: prod for i in atr}
